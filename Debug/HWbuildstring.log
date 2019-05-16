@@ -1,0 +1,7 @@
+﻿  main.cpp
+  MyString.cpp
+d:\hwbuildstring\hwbuildstring\mystring.cpp(33): warning C4018: '<': signed/unsigned mismatch
+d:\hwbuildstring\hwbuildstring\mystring.cpp(42): warning C4018: '<': signed/unsigned mismatch
+d:\hwbuildstring\hwbuildstring\mystring.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\hwbuildstring\hwbuildstring\mystring.cpp(117): warning C4018: '<': signed/unsigned mismatch
+  HWbuildstring.vcxproj -> D:\HWbuildstring\Debug\HWbuildstring.exe
